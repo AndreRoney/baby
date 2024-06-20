@@ -1,0 +1,20 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+@media (min-width: 414  min-height: 890px) {
+    body {
+        
+        background-image: url(imagem/);
+        background-size: cover;
+    }
+
+    div {
+        justify-content: center;
+        align-items: center;
+    }
+
+
+}
