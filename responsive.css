@@ -16,5 +16,7 @@
         align-items: center;
     }
 
-
+    .textos p {
+    padding: 10px;
+}
 }
