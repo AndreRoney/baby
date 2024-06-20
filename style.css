@@ -27,7 +27,9 @@ body {
     height: 300px;
     padding: 10px;
 }
-
+.textos p {
+    padding: 15px;
+}
 .texto {
     font-size: 20px;
     color: aliceblue;
